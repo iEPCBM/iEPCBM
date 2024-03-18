@@ -7,7 +7,7 @@
 # Projects with Github pages
 ## Collective projects
 - smarteka https://iepcbm.github.io/smarteka-frontend-prod/ (collective)
-- AUReady https://iepcbm.github.io/AUReady (with hackathon collective)
+- AUReady https://iepcbm.github.io/AUReady/?museum_t=НАЗВАНИЕ_МУЗЕЯ (with hackathon collective)
 ## Tools
 - Web screen capture service https://iepcbm.github.io/WSR/ (5 stars 🤩)
 - Venn-diagram builder https://iepcbm.github.io/Venn-diagram/
