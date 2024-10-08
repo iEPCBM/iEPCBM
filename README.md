@@ -1,3 +1,15 @@
+<div align="center">
+  
+[![Anurag's GitHub stats](
+https://github-readme-stats.vercel.app/api?username=iepcbm&show_icons=true&theme=radical
+)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](
+https://github-readme-stats.vercel.app/api/top-langs/?username=iepcbm&theme=radical
+)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
 - 👋 Hi, I’m @iEPCBM
 - 👀 I’m interested in machine learning, ANN
 - 🌱 I’m currently learning Qt, JavaScript. Also I learning Assembler and machine code for my ambicious project 😛
